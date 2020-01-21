@@ -1,2 +1,2 @@
 # Python-Exercise-Basic-To-Advance-with-Solutions
-It contains python programs from basic to intermediate to advance level covering all the important functions,data structures etc. The pdf contains all the unsloved questions and solutions will be uploaded in the repository. 
+It contains python programs from basic to intermediate to advance level covering all the important functions,data structures etc. The pdf contains all the unsloved questions and solutions will be uploaded in the repository. You can downlaod the pdf and start solving and if stuck somewhere can refer to the solutions and also try to code in a alternative and simpler way.
